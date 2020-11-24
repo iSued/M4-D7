@@ -1,0 +1,21 @@
+.navbar {
+  height: 63px;
+  background-color: #141414 !important;
+}
+.navText {
+  color: whitesmoke;
+}
+.searchIcon {
+  margin-right: 15px;
+  margin-left: 15px;
+  font-size: x-large;
+  color: whitesmoke;
+}
+.notificationicon {
+  color: whitesmoke;
+}
+
+.imageKids {
+  margin-left: 18px;
+  margin-right: 22px;
+}
